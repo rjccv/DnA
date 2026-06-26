@@ -15,10 +15,10 @@ This repository hosts our **D**enoisi**n**g **A**ttention (DnA) project code and
 If you use this repository, please cite:
 
 ```bibtex
-@article{dna2026,
-  title   = {DnA: Denoising Attention for Visual Tasks},
-  author  = {Ron Campos and Subhajit Maity and Xin Li and Srijan Das and Aritra Dutta},
-  journal = {Proceedings of the European Conference on Computer Vision},
-  year    = {2026},
+@inproceedings{campos2026dna,
+  title     = {DnA: Denoising Attention for Visual Tasks},
+  author    = {Campos, Ron and Maity, Subhajit and Li, Xin and Das, Srijan and Dutta, Aritra},
+  booktitle = {Proceedings of the European Conference on Computer Vision},
+  year      = {2026}
 }
 ```
