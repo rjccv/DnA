@@ -1,6 +1,6 @@
-# **D**enoisi**n**g **A**ttention (DnA)
+# **DnA**: **D**enoisi**n**g **A**ttention for Visual Tasks
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2606.27372)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=flat&logo=githubpages)](https://rjccv.github.io/DnA/)
 
 This repository hosts our **D**enoisi**n**g **A**ttention (DnA) project code and experiments.
